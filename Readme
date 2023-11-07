@@ -1,0 +1,7 @@
+
+When you want to make django fixtures. Use command in terminal "python -Xutf8 manage.py dumpdata <app>.<object> -o <name-file>.json",
+
+'./manage.py loaddata products/fixtures/goods.json'
+
+
+
